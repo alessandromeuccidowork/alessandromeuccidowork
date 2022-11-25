@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alessandromeuccidowork
 
-- 🌱 I’m currently learning ... javascript 
+- 🌱 I’m currently learning ... React
 
 - 📫 How to reach me ... alessandromeucciwork@gmail.com
 
